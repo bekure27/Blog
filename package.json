@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekure27/Blog.git"
+  },
+  "author": "bekuretsion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekure27/Blog/issues"
+  },
+  "homepage": "https://github.com/bekure27/Blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
